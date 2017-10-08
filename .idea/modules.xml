@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MVP学习/MVP学习.iml" filepath="$PROJECT_DIR$/../MVP学习/MVP学习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SliddingLock.iml" filepath="$PROJECT_DIR$/../SliddingLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/滑动锁.iml" filepath="$PROJECT_DIR$/滑动锁.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

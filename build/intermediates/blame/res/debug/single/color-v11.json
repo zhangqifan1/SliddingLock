@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Volumes\\Mac10.10.4\\current class\\two\\newCode\\CustomViewDemos\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\ProjectDemo_22222222222\\SliddingLock\\滑动锁\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_fade_out.xml"
+    }
+]
